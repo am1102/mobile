@@ -31,9 +31,9 @@
 				<key>bundle-identifier</key>
 				<string>com.commnet.slt</string>
 				<key>bundle-version</key>
-				<string>5.0.24070</string>
+				<string>5.0.24071</string>
 				<key>version</key>
-				<string>5.0.1</string>
+				<string>5.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
