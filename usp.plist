@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.commnet.slt</string>
 				<key>bundle-version</key>
-				<string>5.0.24088</string>
-				<key>version</key>
-				<string>5.0.7</string>
+				<string>5.0.24100</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>水利信息门 户</string>
+				<string>USP_SLT</string>
+				<key>version</key>
+				<string>水利信息门户</string>
 			</dict>
 		</dict>
 	</array>
